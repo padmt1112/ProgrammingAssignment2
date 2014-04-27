@@ -1,7 +1,7 @@
-## Put comments here that give an overall description of what your
-## functions do
+## Function creates a special matrix
+## << used for assigning the values
 
-## Write a short comment describing this function
+## simple code to create a matrix
 
 makeCacheMatrix <- function(x = matrix()) {
 s <- NULL
@@ -20,7 +20,7 @@ s <- NULL
 
 
 
-## Write a short comment describing this function
+## CacheSolve creates the inverse of the matrix created / defined in the above code
 
 cacheSolve <- function(x, ...) {
 
