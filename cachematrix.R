@@ -19,7 +19,6 @@ s <- NULL
 
 
 
-
 ## CacheSolve creates the inverse of the matrix created / defined in the above code
 
 cacheSolve <- function(x, ...) {
